@@ -10,8 +10,8 @@
 #              - Fetching stock data from Yahoo Finance.
 #              - Preparing data for Prophet's forecasting requirements.
 #              - Visualizing predictions alongside actual historical prices.
-# Assistance: Code structure and comments partially inspired by ChatGPT,
-#             an AI language model by OpenAI. G
+# Assistance: Guidance Provided by Mohammad Tahawi. Code structure and comments partially inspired by ChatGPT,
+#             an AI language model by OpenAI. 
 # ---------------------------------------------------------
 
 import matplotlib.pyplot as plt
