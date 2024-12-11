@@ -13,11 +13,14 @@
 # Assistance: Guidance Provided by Mohammad Tahawi. Code structure and comments partially inspired by ChatGPT,
 #             an AI language model by OpenAI. 
 # ---------------------------------------------------------
-
+#Used to create the forecast plot showing actual vs. predicted stock prices.
 import matplotlib.pyplot as plt
+
 import pandas as pd
 import streamlit as st
 import yfinance as yf
+#A forecasting library developed by Meta for time series prediction.
+#Trains a model to predict stock prices.
 from prophet import Prophet
 
 
