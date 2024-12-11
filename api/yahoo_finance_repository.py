@@ -16,7 +16,8 @@ import logging
 import yfinance as yf
 
 logger = logging.getLogger(__name__)
-
+#CacheMixin and SQLiteCache enable API request caching.
+#Prevents repeated API calls by storing responses in a local SQLite database
 from requests_cache import CacheMixin, SQLiteCache
 from requests import Session
 
