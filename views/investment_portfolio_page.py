@@ -11,7 +11,7 @@
 #              on Survey answers (Sectors and controversies).
 #              - Visualizing portfolio distributions with Plotly.
 # Assistance: Code structure and comments partially inspired by ChatGPT,
-#             an AI language model by OpenAI.
+#             an AI language model by OpenAI. Guided by Mohammad Tahawi.
 # ---------------------------------------------------------
 
 #Importing required libraries
